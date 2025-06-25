@@ -13,6 +13,8 @@ This project is a **Streamlit-based web application** that predicts the **next w
 - 🌟 **Highlighting**: Highlights the predicted word within Hamlet's text (if found).
 
 ---
+## 🧪 Application Url
+https://next-word-prediction-bsgjmwyle7we5ds65zycab.streamlit.app/
 
 ## 📦 Tech Stack
 
@@ -99,5 +101,5 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Junaid Noor Siddiqui](https://github.com/jnoorsolutions)
 
