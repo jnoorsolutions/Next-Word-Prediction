@@ -101,5 +101,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
-Made with ❤️ by [Junaid Noor Siddiqui](https://github.com/jnoorsolutions)
+## 👨‍💻 Author  
+Developed by **Junaid Noor Siddiqui** ✨
 
